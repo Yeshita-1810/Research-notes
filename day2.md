@@ -36,8 +36,8 @@ Results: 47,673 papers;
 - [e.g., most papers on blood expression in PD use X or Y]
 - [one thing you noticed that surprised you]
 
- Research question
- Which genes and pathways differ in PBMCs between drug-naive PD patients and healthy controls in GSE290333, and do they overlap with findings from earlier blood studies?
+ Research question:-
+ -Which genes and pathways differ in PBMCs between drug-naive PD patients and healthy controls in GSE290333, and do they overlap with findings from earlier blood studies?
 
 Next
 - Day 3: how to read a paper fast (three-pass method)
